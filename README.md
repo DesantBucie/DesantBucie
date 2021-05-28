@@ -1,5 +1,5 @@
 ### Hello, I'm Jakub
-[![Website](https://img.shields.io/badge/Change da world-my final message-green?style=flat-square&/)](https://github.com/DesantBucie)
+[![Website](https://img.shields.io/badge/change%20da%20world-my%20final%20message-green?style=flat-square&/)](https://github.com/DesantBucie)
 
 I'm aspiring programmer intrested in OSes and motorsport.
 
