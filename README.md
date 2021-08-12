@@ -3,7 +3,7 @@
 
 I'm aspiring programmer intrested in OSes and motorsport.
 
-* Main machine - Macbook Pro 13
+* Main machine - Macbook Pro 16,3
 * Last discovered OS - Illuminos
 * Imagine - vim had easy to set up autocompletion
 * Fun fact - Kornshell is actually really good, try it
