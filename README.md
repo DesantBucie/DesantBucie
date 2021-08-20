@@ -1,7 +1,5 @@
 ### Hello, I'm Jakub
-[![Website](https://img.shields.io/badge/change%20da%20world-my%20final%20message-green?style=flat-square&/)](https://github.com/DesantBucie)
-
-I'm aspiring programmer intrested in OSes and motorsport.
+[Check out my portfolio](https://desantbucie.github.io/portfolio)
 
 * Main machine - Macbook Pro 16,3
 * Last discovered OS - Illuminos
@@ -10,5 +8,5 @@ I'm aspiring programmer intrested in OSes and motorsport.
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DesantBucie&theme=outrun&count_private=true&include_all_commits=true)](https://github.com/DesantBucie)
 
-Check out my projects below! I hope you find them somehow useful. If you find any errors, tell me. 
+Check out my projects below! I hope you find them somehow useful. If you find any errors, make an issue. 
 
