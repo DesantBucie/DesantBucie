@@ -18,7 +18,8 @@
 ## Contact and other media
 
 [![GitLab](https://img.shields.io/badge/-Gitlab-black?&style=for-the-badge&logo=gitlab)](https://gitlab.com/DesantBucie)
-<a href="goto:mattrusz@gmail.com"><img src="https://img.shields.io/badge/-Mail-black?&style=for-the-badge&logo=gmail"/></a>
+[![Mail](https://img.shields.io/badge/-Mail-black?&style=for-the-badge&logo=gmail)](mailto:mattrusz@gmail.com)
+
 
 
 
