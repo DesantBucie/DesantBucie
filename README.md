@@ -1,8 +1,8 @@
 ### Hello, I'm Jakub
 [Check out my portfolio](https://desantbucie.github.io/portfolio)
 
-* Main machine - Macbook Pro 16,3
-* Last discovered OS - Illuminos
+* ![Machine](https://img.shields.io/badge/Main%20Machine-Macbook_Pro_16,3-black?&style=for-the-badge&logo=macOS&logoColor=white&labelColor=silver)
+* ![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
 * Imagine - vim had easy to set up autocompletion
 * Fun fact - Kornshell is actually really good, try it
  
