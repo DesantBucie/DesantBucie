@@ -15,7 +15,14 @@
 [![C](https://img.shields.io/badge/C-darkblue?&style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/DesantBucie)
 [![Vim](https://img.shields.io/badge/-Vimscript-darkgreen?&style=for-the-badge&logo=vim&logoColor=white)](https://github.com/DesantBucie)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DesantBucie&theme=outrun&count_private=true&include_all_commits=true)](https://github.com/DesantBucie)
+## Contact and other media
+
+[![GitLab](https://img.shields.io/badge/-Gitlab-black?&style=for-the-badge&logo=gitlab)](https://gitlab.com/DesantBucie)
+<a href="goto:mattrusz@gmail.com"><img src="https://img.shields.io/badge/-Mail-black?&style=for-the-badge&logo=gmail"/></a>
+
+
+
+
 
 Check out my projects below! I hope you find them somehow useful. If you find any errors, make an issue. 
 
