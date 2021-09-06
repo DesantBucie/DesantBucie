@@ -1,10 +1,13 @@
 ### Hello, I'm Jakub
 [Check out my portfolio](https://desantbucie.github.io/portfolio)
 
-* ![Machine](https://img.shields.io/badge/Main%20Machine-Macbook_Pro_16,3-black?&style=for-the-badge&logo=macOS&logoColor=white&labelColor=707070)
-* ![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
-* ![Imagine](https://img.shields.io/badge/Imagine-vim%20had%20easy%20to%20set%20up%20autocompletion-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkgreen)
-* ![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)
+![Machine](https://img.shields.io/badge/Main%20Machine-Macbook_Pro_16,3-black?&style=for-the-badge&logo=macOS&logoColor=white&labelColor=707070)
+
+![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
+
+![Imagine](https://img.shields.io/badge/Imagine-vim%20had%20easy%20to%20set%20up%20autocompletion-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkgreen)
+
+![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)
  
 ## Used Technologies
 
