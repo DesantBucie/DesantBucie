@@ -5,9 +5,9 @@
 
 ![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
 
-![Imagine](https://img.shields.io/badge/Imagine-vim%20had%20easy%20to%20set%20up%20autocompletion-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkgreen)
+[![Imagine](https://img.shields.io/badge/Imagine-vim%20had%20easy%20to%20set%20up%20autocompletion-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkblue)](https://github.com/DesantBucie/easy.nvim)
 
-![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)
+[![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)](https://github.com/DesantBucie/korny)
  
 ## Used Technologies
 
@@ -15,8 +15,8 @@
 [![Javascript](https://img.shields.io/badge/-Javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/DesantBucie)
 [![Typescript](https://img.shields.io/badge/-Typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/DesantBucie)
 [![Kornshell](https://img.shields.io/badge/kornshell-red?&style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/DesantBucie)
-[![C](https://img.shields.io/badge/C-darkblue?&style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/DesantBucie)
-[![Vim](https://img.shields.io/badge/-Vimscript-darkgreen?&style=for-the-badge&logo=vim&logoColor=white)](https://github.com/DesantBucie)
+[![C](https://img.shields.io/badge/C-gray?&style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/DesantBucie)
+[![Lua](https://img.shields.io/badge/-Lua-darkblue?&style=for-the-badge&logo=lua&logoColor=white)](https://github.com/DesantBucie)
 
 ## Contact and other media
 
