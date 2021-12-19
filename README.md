@@ -1,7 +1,7 @@
 ### Hello, I'm Jakub
 [Check out my portfolio](https://desantbucie.github.io/portfolio)
 
-![Machine](https://img.shields.io/badge/Main%20Machine-Macbook_Pro_16,3-black?&style=for-the-badge&logo=macOS&logoColor=white&labelColor=707070)
+![Machine](https://img.shields.io/badge/Main%20Machine-Macbook_Air_M1-black?&style=for-the-badge&logo=macOS&logoColor=white&labelColor=707070)
 
 ![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
 
