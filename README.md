@@ -5,7 +5,7 @@
 
 ![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
 
-[![Imagine](https://img.shields.io/badge/Imagine-vim%20had%20easy%20to%20set%20up%20autocompletion-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkblue)](https://github.com/DesantBucie/easy.nvim)
+[![Imagine](https://img.shields.io/badge/Simple_vim_setup?-Try_this-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkblue)](https://github.com/DesantBucie/easy.nvim)
 
 [![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)](https://github.com/DesantBucie/korny)
  
