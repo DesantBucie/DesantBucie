@@ -5,7 +5,7 @@
 
 ![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
 
-[![Imagine](https://img.shields.io/badge/Simple_vim_setup%3F-Try_this-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkblue)](https://github.com/DesantBucie/easy.nvim)
+[![Imagine](https://img.shields.io/badge/Simple_vim_setup%3F-Try_this-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkblue)](https://github.com/DesantBucie/Triton)
 
 [![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)](https://github.com/DesantBucie/korny)
  
@@ -13,10 +13,8 @@
 
 [![React](https://img.shields.io/badge/-React-black?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/DesantBucie)
 [![Javascript](https://img.shields.io/badge/-Javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/DesantBucie)
-[![Typescript](https://img.shields.io/badge/-Typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/DesantBucie)
 [![Kornshell](https://img.shields.io/badge/kornshell-red?&style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/DesantBucie)
 [![C](https://img.shields.io/badge/C-gray?&style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/DesantBucie)
-[![Lua](https://img.shields.io/badge/-Lua-darkblue?&style=for-the-badge&logo=lua&logoColor=white)](https://github.com/DesantBucie)
 
 ## Contact and other media
 
