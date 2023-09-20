@@ -19,7 +19,7 @@
 ## Contact and other media
 
 [![GitLab](https://img.shields.io/badge/-Gitlab-black?&style=for-the-badge&logo=gitlab)](https://gitlab.com/DesantBucie)
-[![Mail](https://img.shields.io/badge/-Mail-black?&style=for-the-badge&logo=gmail)](mailto:mattrusz@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail-black?&style=for-the-badge&logo=gmail)](mailto:jakub.truszkowski0@hotmail.com)
 [![GithubIssues](https://img.shields.io/badge/-Issues-black?&style=for-the-badge&logo=github)](https://github.com/DesantBucie/DesantBucie/issues)
 
 Check out my projects below! I hope you find them somehow useful. If you find any errors, make an issue. 
