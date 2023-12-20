@@ -1,25 +1,21 @@
-### Hello, I'm Jakub
-[Check out my portfolio](https://desantbucie.github.io/portfolio)
+## Some of my projects
 
-![Machine](https://img.shields.io/badge/Main%20Machine-Macbook_Air_M1-black?&style=for-the-badge&logo=macOS&logoColor=white&labelColor=707070)
+![C](https://img.shields.io/badge/-black?&style=flat&logo=C&logoColor=#A8B9CC)
 
-![LastOS](https://img.shields.io/badge/Last_discovered_OS-Illumos-black?&style=for-the-badge&logo=linuxcontainers&logoColor=white&labelColor=FB290F)
+* [libspl](https://gitlab.com/DesantBucie/libspl) - C lib implementing vector, string, list and more.
+* [paleofetch-mac](https://gitlab.com/DesantBucie/palefetch-mac) - neofetch clone in c for macOS
 
-[![Imagine](https://img.shields.io/badge/Simple_vim_setup%3F-Try_this-black?&style=for-the-badge&logo=vim&logoColor=white&labelColor=darkblue)](https://github.com/DesantBucie/Triton)
+![Ksh](https://img.shields.io/badge/-orange?&style=flat&logo=gnubash&logoColor=white)
 
-[![FunFact](https://img.shields.io/badge/Fun_fact-Kornshell_is_actually_really_good,_try_it-black?&style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=red)](https://github.com/DesantBucie/korny)
- 
-## Used Technologies
+* [korny](https://github.com/DesantBucie/korny) - kornshell plugin
+* [Triton](https::/github.com/DesantBucie/Triton) - vim 9.0 config with lsp
 
-[![React](https://img.shields.io/badge/-React-black?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/DesantBucie)
-[![Javascript](https://img.shields.io/badge/-Javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/DesantBucie)
-[![Kornshell](https://img.shields.io/badge/kornshell-red?&style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/DesantBucie)
-[![C](https://img.shields.io/badge/C-gray?&style=for-the-badge&logo=xcode&logoColor=white)](https://github.com/DesantBucie)
+![C#](https://img.shields.io/badge/-00C65E?&style=flat&logo=dotnet)
+
+* [Simple Weather App](https://github.com/DesantBucie/SimpleWeatherApp.Wpf) in Xaml.
 
 ## Contact and other media
 
+[![GitHub](https://img.shields.io/badge/-Github-black?&style=for-the-badge&logo=github)](https://github.com/DesantBucie)
 [![GitLab](https://img.shields.io/badge/-Gitlab-black?&style=for-the-badge&logo=gitlab)](https://gitlab.com/DesantBucie)
-[![Mail](https://img.shields.io/badge/-Mail-black?&style=for-the-badge&logo=gmail)](mailto:jakub.truszkowski0@hotmail.com)
-[![GithubIssues](https://img.shields.io/badge/-Issues-black?&style=for-the-badge&logo=github)](https://github.com/DesantBucie/DesantBucie/issues)
-
-Check out my projects below! I hope you find them somehow useful. If you find any errors, make an issue. 
+[![Mail](https://img.shields.io/badge/-Mail-0078D4?&style=for-the-badge&logo=microsoftoutlook)](mailto:jakub.truszkowski0@hotmail.com)
