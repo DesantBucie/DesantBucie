@@ -8,7 +8,7 @@
 ![Ksh](https://img.shields.io/badge/-orange?&style=flat&logo=gnubash&logoColor=white)
 
 * [korny](https://github.com/DesantBucie/korny) - kornshell plugin
-* [Triton](https::/github.com/DesantBucie/Triton) - vim 9.0 config with lsp
+* [Triton](https://github.com/DesantBucie/triton) - vim 9.0 config with lsp
 
 ![C#](https://img.shields.io/badge/-00C65E?&style=flat&logo=dotnet)
 
