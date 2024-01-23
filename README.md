@@ -3,12 +3,12 @@
 ![C](https://img.shields.io/badge/-black?&style=flat&logo=C&logoColor=#A8B9CC)
 
 * [libspl](https://gitlab.com/DesantBucie/libspl) - C lib implementing vector, string, list and more.
-* [paleofetch-mac](https://gitlab.com/DesantBucie/palefetch-mac) - neofetch clone in c for macOS
+* [paleofetch-bsd](https://gitlab.com/DesantBucie/paleofetch-mac) - neofetch clone in c for macOS and BSDs.
 
 ![Ksh](https://img.shields.io/badge/-orange?&style=flat&logo=gnubash&logoColor=white)
 
 * [korny](https://github.com/DesantBucie/korny) - kornshell plugin
-* [Triton](https://github.com/DesantBucie/triton) - vim 9.0 config with lsp
+* [triton](https://github.com/DesantBucie/triton) - vim 9.0 config with lsp
 
 ![C#](https://img.shields.io/badge/-00C65E?&style=flat&logo=dotnet)
 
